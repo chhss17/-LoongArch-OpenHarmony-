@@ -12,9 +12,11 @@ OpenHarmony 是一个开源的分布式操作系统，旨在为各种设备提�
 ## 项目导师
 *  王洪虎 wanghonghu@loongson.cn
 
-## 难度：低-中
+## 难度
+低-中
 
-## License：Apache License 2.0
+## License
+Apache License 2.0
 
 ## 预期目标
 * 基于openharmony-5.0.0版本系统进行移植，完成整体系统的构建和运行。
